@@ -1,0 +1,171 @@
+[
+  {
+    "key": "kyrie",
+    "file": "/players/kyrie-drive-2016.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Kyrie_Irving_(30548520130).jpg",
+    "credit": "Erik Drost",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "year": 2016,
+    "position": "48% 48%",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kyrie_Irving_%2830548520130%29.jpg"
+  },
+  {
+    "key": "curry",
+    "file": "/players/curry.webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Stephen_Curry_shooting.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stephen_Curry_shooting.jpg",
+    "credit": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "year": 2011,
+    "position": "55% 35%"
+  },
+  {
+    "key": "durant",
+    "file": "/players/durant.webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kevin_Durant_jumpshot.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kevin_Durant_jumpshot.jpg",
+    "credit": "globalite",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "year": 2010,
+    "position": "65% 45%"
+  },
+  {
+    "key": "lebron",
+    "file": "/players/lebron.webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LeBron_dunks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LeBron_dunks.jpg",
+    "credit": "Tim Shelby",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "year": 2012,
+    "position": "55% 35%"
+  },
+  {
+    "key": "giannis",
+    "file": "/players/giannis.webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Giannis_Antetokounmpo_%2839004611954%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(39004611954).jpg",
+    "credit": "Keith Allison",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "year": 2018,
+    "position": "55% 35%"
+  },
+  {
+    "key": "jokic",
+    "file": "/players/jokic-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_Jump_Shot.jpg",
+    "credit": "Jose Garcia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "year": 2021,
+    "position": "55% 35%"
+  },
+  {
+    "key": "luka",
+    "file": "/players/luka-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Luka_Doncic_(51175616942).jpg",
+    "credit": "Erik Drost",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "year": 2021,
+    "position": "55% 35%"
+  },
+  {
+    "key": "harden",
+    "file": "/players/harden-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:James_Harden_And_Aaron_Gordon_(31811616060).jpg",
+    "credit": "Jose Garcia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "year": 2017,
+    "position": "40% 45%"
+  },
+  {
+    "key": "shai",
+    "file": "/players/shai-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-Länderspiel)_by_Sandro_Halank–108.jpg",
+    "credit": "Sandro Halank, Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "year": 2023,
+    "position": "50% 38%",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93108.jpg",
+    "context": "Canada vs Germany preparation match; not an NBA game."
+  },
+  {
+    "key": "edwards",
+    "file": "/players/edwards-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Anthony_Edwards_Kentavious_Caldwell-Pope_(51734745028)_(cropped).jpg",
+    "credit": "All-Pro Reels",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "year": 2021,
+    "position": "50% 32%",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Anthony_Edwards_Kentavious_Caldwell-Pope_%2851734745028%29_%28cropped%29.jpg",
+    "context": "NBA game vs Washington, in-game movement; ball outside crop."
+  },
+  {
+    "key": "kawhi",
+    "file": "/players/kawhi-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:1_kawhi_leonard_2019_(cropped).jpg",
+    "credit": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "year": 2019,
+    "position": "50% 38%",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/1_kawhi_leonard_2019_%28cropped%29.jpg",
+    "context": "Toronto vs Charlotte NBA game."
+  },
+  {
+    "key": "klay",
+    "file": "/players/klay-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Klay_Thompson_shoots_over_Justin_Holiday.jpg",
+    "credit": "Neon Tommy",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "year": 2011,
+    "position": "65% 35%",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Klay_Thompson_shoots_over_Justin_Holiday.jpg",
+    "context": "Washington State college game; not an NBA game."
+  },
+  {
+    "key": "davis",
+    "file": "/players/davis-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:20140101_Anthony_Davis_dunk_(2).JPG",
+    "credit": "TonyTheTiger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "year": 2014,
+    "position": "50% 30%",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/20140101_Anthony_Davis_dunk_%282%29.JPG",
+    "context": "Pelicans vs Timberwolves NBA game; local crop focuses on Davis and ball."
+  },
+  {
+    "key": "rodman",
+    "file": "/players/rodman-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Dennis_Rodman_ToPo.jpg",
+    "credit": "Tuomas Venhola",
+    "license": "CC BY-SA 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0/",
+    "year": 2005,
+    "position": "50% 28%",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Dennis_Rodman_ToPo.jpg",
+    "context": "Torpan Pojat Finnish league game; not an NBA game. Source descriptions disagree about exact month; year is unambiguous."
+  },
+  {
+    "key": "brunson",
+    "file": "/players/brunson-game.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Jalen_Brunson_cropped.jpg",
+    "credit": "Erik Drost",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "year": 2023,
+    "position": "50% 35%",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jalen_Brunson_cropped.jpg",
+    "context": "Knicks vs Cavaliers NBA playoff game; driving with ball."
+  }
+]

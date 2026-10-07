@@ -1,0 +1,2449 @@
+{
+  "verifiedAt": "2026-10-05",
+  "shoes": [
+    {
+      "id": "wade-wow-12",
+      "name": "李宁 韦德之道 12",
+      "short": "WOW 12",
+      "brand": "LI-NING / 李宁",
+      "series": "WAY OF WADE / SIGNATURE",
+      "subtitle": "双层 超䨻 · 纵向碳板",
+      "color": "#39cce7",
+      "year": "2026 赛季",
+      "releaseNote": "2025 发布 · 2026 赛季旗舰档案",
+      "releaseSource": "https://www.wayofwade.com/pages/way-of-wade-12",
+      "colorway": "Coming Home",
+      "styleCode": "ABAV085-8 · 标准性能版",
+      "photos": [
+        "/shoes/wow12-2026-01.webp",
+        "/shoes/wow12-2026-02.webp",
+        "/shoes/wow12-2026-03.webp",
+        "/shoes/wow12-2026-04.webp",
+        "/shoes/wow12-2026-05.webp",
+        "/shoes/wow12-2026-06.webp"
+      ],
+      "scores": [
+        9,
+        9,
+        9,
+        8,
+        7
+      ],
+      "plays": [
+        "all",
+        "jump",
+        "power"
+      ],
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "roleReason": "双层 超䨻、纵向碳板与后跟支撑组合，适合关注起跳、落地与攻防转换的锋卫和机动内线优先试穿。",
+      "advice": "如果打法兼顾起跳与对抗，可重点比较双层缓震和纵向支撑的体验；实际软硬与包覆仍需试穿。",
+      "caution": "这里为标准 Coming Home 性能版，不套用 LUX/AAPE 版本；后跟两片支撑的材质在官方页面间存在不同表述。",
+      "weight": {
+        "grams": 330,
+        "label": "官方约值 · 男 US 9.5 · 单鞋",
+        "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home"
+      },
+      "imageSource": "https://www.wayofwade.com/products/way-of-wade-12-coming-home",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "双层 超䨻：薄型上层 + 杯状下层",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home"
+        },
+        {
+          "label": "碳板",
+          "value": "前掌至后足的纵向板 · 前后椭圆开孔",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home"
+        },
+        {
+          "label": "后跟",
+          "value": "两片独立柔性支撑 · 官网材质表述有差异",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home"
+        },
+        {
+          "label": "外底",
+          "value": "GCU 地面控制系统",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home"
+        }
+      ],
+      "layers": [
+        {
+          "id": "topboom",
+          "title": "上层 超䨻",
+          "type": "insole",
+          "zone": "full",
+          "location": "全长薄型足底泡棉层",
+          "relationship": "官方爆炸图显示在第二件杯状 超䨻 上方",
+          "function": "足底缓震与回弹",
+          "unknown": "厚度、密度和连接方式未公开",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home",
+          "description": "全长薄型足底泡棉层 · 足底缓震与回弹",
+          "level": 0.39,
+          "explodeRank": 3.4,
+          "color": "#bad7ed",
+          "visualDepth": 0.065,
+          "surfaceDimples": true
+        },
+        {
+          "id": "lowerboom",
+          "title": "下层 超䨻",
+          "type": "carrier",
+          "zone": "full",
+          "location": "全长杯状泡棉与抬升侧墙",
+          "relationship": "第二件独立 超䨻 形成底部承托；两层形状不同",
+          "function": "缓震与环绕承托",
+          "unknown": "精确密度分区、厚度以及板的嵌入深度未公开",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home",
+          "description": "全长杯状泡棉与抬升侧墙 · 缓震与环绕承托",
+          "level": 0.08,
+          "explodeRank": 1.3,
+          "color": "#7daae6",
+          "visualDepth": 0.16,
+          "rim": true
+        },
+        {
+          "id": "carbon",
+          "title": "纵向平衡碳纤维板",
+          "type": "carbon",
+          "zone": "longitudinal",
+          "location": "前掌向后足延伸 · 前后椭圆开孔",
+          "relationship": "官方碳板图显示窄型纵向板，与下层 超䨻 和后跟支撑关联",
+          "function": "力传递与刚性支撑",
+          "unknown": "图中板长并不等于有尺寸的全掌板；模型展开位置不代表夹在两泡棉间",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home",
+          "description": "前掌向后足延伸 · 前后椭圆开孔 · 力传递与刚性支撑",
+          "level": 0.26,
+          "explodeRank": 2.2,
+          "color": "#aec4e0"
+        },
+        {
+          "id": "heelpatch",
+          "title": "后跟两片柔性支撑",
+          "type": "frame",
+          "zone": "heel",
+          "location": "后跟两侧独立上翻组件",
+          "relationship": "官方图显示为两片；商品页称柔性 TPU，品牌页称碳片",
+          "function": "后跟力传递与稳定",
+          "unknown": "官方材质表述不一致；碳纹外观不能直接证明材料",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home",
+          "description": "后跟两侧独立上翻组件 · 后跟力传递与稳定",
+          "level": 0.12,
+          "explodeRank": 0.7,
+          "color": "#5f90cc"
+        },
+        {
+          "id": "gcu",
+          "title": "GCU 外底",
+          "type": "outsole",
+          "zone": "unknown",
+          "location": "外底 · 具体覆盖边界待公开",
+          "relationship": "官方确认 GCU，未精确量化完整覆盖范围",
+          "function": "抓地与外底耐用",
+          "unknown": "未公开的边界不补画；真实外底形状见产品实拍",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home",
+          "description": "外底 · 具体覆盖边界待公开 · 抓地与外底耐用",
+          "level": -0.04,
+          "explodeRank": 0,
+          "color": "#d8e7f3"
+        }
+      ],
+      "structureSummary": "两件形状不同的全长 超䨻，配合带双椭圆孔的纵向碳板与两片后跟支撑。碳板精确嵌入层位仍未公开。",
+      "shape": {
+        "width": 1.06,
+        "heel": 1.04,
+        "waist": 0.9
+      },
+      "techImages": [
+        {
+          "src": "/shoes/wow12-tech-1.webp",
+          "title": "双层 超䨻 爆炸图",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home",
+          "kind": "官方结构图"
+        },
+        {
+          "src": "/shoes/wow12-tech-2.webp",
+          "title": "纵向碳板与后跟支撑图",
+          "source": "https://www.wayofwade.com/products/way-of-wade-12-coming-home",
+          "kind": "官方结构图"
+        }
+      ],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。"
+    },
+    {
+      "id": "nike-kobe6",
+      "name": "Nike Kobe 6 Protro",
+      "short": "Kobe 6 Protro",
+      "brand": "Nike",
+      "series": "NIKE / KOBE BRYANT",
+      "subtitle": "前掌 Zoom Turbo · 低帮灵动",
+      "color": "#508bff",
+      "year": "经典 Protro",
+      "releaseNote": "2026 在售配色档案 · 非新一代鞋型",
+      "releaseSource": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ",
+      "colorway": "Dark Grey / Challenge Red / Chlorine Blue",
+      "styleCode": "IQ3902-002",
+      "photos": [
+        "/shoes/kobe6-2026-01.webp",
+        "/shoes/kobe6-2026-02.webp",
+        "/shoes/kobe6-2026-03.webp"
+      ],
+      "scores": [
+        8,
+        9,
+        8,
+        6,
+        9
+      ],
+      "plays": [
+        "quick",
+        "jump",
+        "all"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "喜欢连续变向、急停跳投或无球接应，可以优先试穿 Kobe 6 Protro。前掌 Zoom Turbo 配合 Cushlon，后跟 TPU 框架负责包覆；低帮设计也需要确认脚型是否贴合。",
+      "advice": "喜欢连续变向、急停跳投或无球接应，可以优先试穿 Kobe 6 Protro。前掌 Zoom Turbo 配合 Cushlon，后跟 TPU 框架负责包覆；低帮设计也需要确认脚型是否贴合。",
+      "caution": "配置用于选鞋初筛，具体脚感、包覆与外底损耗还需结合脚型和试穿。",
+      "weight": null,
+      "imageSource": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "Cushlon 泡棉 + 前掌 Air Zoom Turbo",
+          "source": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ"
+        },
+        {
+          "label": "后跟",
+          "value": "外部 TPU 包覆框架",
+          "source": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ"
+        },
+        {
+          "label": "鞋面",
+          "value": "低帮鞋型 · 鳞片纹理鞋面",
+          "source": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ"
+        },
+        {
+          "label": "外底",
+          "value": "低重心设计 · 抓地纹路见底部实拍",
+          "source": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ"
+        }
+      ],
+      "layers": [
+        {
+          "id": "turbo",
+          "title": "前掌 Air Zoom Turbo",
+          "type": "air",
+          "zone": "forefoot",
+          "location": "前掌足底区域",
+          "relationship": "官方明确位于前掌，与 Cushlon 中底配合",
+          "function": "前掌响应与弯折反馈",
+          "unknown": "气囊的精确形状、厚度与压力未公开",
+          "source": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ",
+          "description": "前掌足底区域 · 前掌响应与弯折反馈",
+          "level": 0.24,
+          "explodeRank": 2.4,
+          "color": "#61cce8"
+        },
+        {
+          "id": "cushlon",
+          "title": "Cushlon 缓震泡棉",
+          "type": "foam",
+          "zone": "full",
+          "location": "从前掌延伸至后跟",
+          "relationship": "承托前掌气垫，提供前后掌过渡",
+          "function": "提供缓震与平顺过渡",
+          "unknown": "泡棉厚度、密度分区与精确轮廓未公开",
+          "source": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ",
+          "description": "从前掌延伸至后跟 · 提供缓震与平顺过渡",
+          "level": 0.13,
+          "explodeRank": 1.3,
+          "color": "#a8c3df",
+          "visualDepth": 0.17
+        },
+        {
+          "id": "heel-tpu",
+          "title": "后跟 TPU 包覆框架",
+          "type": "frame",
+          "zone": "heel",
+          "location": "后跟外部包覆区域",
+          "relationship": "TPU 框架固定后跟，与低帮鞋面配合",
+          "function": "后跟锁定与稳定",
+          "unknown": "TPU 的精确厚度及硬度未公开；此页未确认碳板配置",
+          "source": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ",
+          "description": "后跟外部包覆区域 · 后跟锁定与稳定",
+          "level": 0.06999999999999999,
+          "explodeRank": 0.7,
+          "color": "#a8c3df"
+        },
+        {
+          "id": "outsole",
+          "title": "低重心抓地外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "接触地面的外底层",
+          "relationship": "外底位于 Cushlon 下方",
+          "function": "多向起停与转向抓地",
+          "unknown": "三维纹路仅示意层级，真实外底见产品实拍",
+          "source": "https://www.nike.com/mx/t/tenis-de-basquetbol-kobe-6-protro-K7PoAIiJ",
+          "description": "接触地面的外底层 · 多向起停与转向抓地",
+          "level": 0,
+          "explodeRank": 0,
+          "color": "#a8c3df"
+        }
+      ],
+      "structureSummary": "前掌 Zoom Turbo · 低帮灵动",
+      "shape": {
+        "width": 1,
+        "heel": 1,
+        "waist": 0.9
+      },
+      "techImages": [],
+      "structureAccuracy": "依据官方配置重建部件分布；轮廓、展开间距及厚度为展示设定，非 1:1 扫描或尺寸模型。"
+    },
+    {
+      "id": "nike-sabrina4",
+      "name": "Nike Sabrina 4",
+      "short": "Sabrina 4",
+      "brand": "Nike",
+      "series": "NIKE / SABRINA IONESCU",
+      "subtitle": "FlyPlate · 多向变速",
+      "color": "#508bff",
+      "year": "2026.07",
+      "releaseNote": "2026.07.17 系列零售发布",
+      "releaseSource": "https://www.nike.com/a/nike-sabrina-4-release-info",
+      "colorway": "Black / Blue Glow / Light Aqua / Multi-Color",
+      "styleCode": "IX5223-001 · 成人原版",
+      "photos": [
+        "/shoes/sabrina4-2026-01.webp",
+        "/shoes/sabrina4-2026-02.webp",
+        "/shoes/sabrina4-2026-03.webp",
+        "/shoes/sabrina4-2026-04.webp",
+        "/shoes/sabrina4-2026-05.webp",
+        "/shoes/sabrina4-2026-06.webp"
+      ],
+      "scores": [
+        8,
+        9,
+        9,
+        6,
+        8
+      ],
+      "plays": [
+        "quick",
+        "all"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "可推荐给连续变向、突破分球、转换跑动和急停投篮型后卫／锋卫。依据是前掌 Zoom、FlyPlate 的前掌推进与侧向支撑、中足带及拉索",
+      "advice": "可推荐给连续变向、突破分球、转换跑动和急停投篮型后卫／锋卫。依据是前掌 Zoom、FlyPlate 的前掌推进与侧向支撑、中足带及拉索",
+      "caution": "这些判断依据配置，未经统一实测；请结合脚型、尺码和试穿，粗糙外场需留意外底损耗。",
+      "weight": {
+        "grams": 391,
+        "label": "Nike 官方约值 · 男 US 9",
+        "source": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001"
+      },
+      "imageSource": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "全掌 Cushlon 3.0 + 前掌 Air Zoom",
+          "source": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001"
+        },
+        {
+          "label": "支撑",
+          "value": "TPU FlyPlate：前掌 → 足弓 → 侧墙",
+          "source": "https://about.nike.com/en/newsroom/releases/nike-and-sabrina-ionescu-introduce-the-sabrina-4-signature-collection"
+        },
+        {
+          "label": "锁定",
+          "value": "内部中足带与拉索 + 后跟加固",
+          "source": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001"
+        },
+        {
+          "label": "外底",
+          "value": "由 S 字母组成的同心圆多向纹路",
+          "source": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001"
+        }
+      ],
+      "layers": [
+        {
+          "id": "zoom",
+          "title": "前掌 Air Zoom",
+          "type": "air",
+          "zone": "forefoot",
+          "location": "前掌下方",
+          "relationship": "位于 FlyPlate 上方，配合全掌 Cushlon 3.0",
+          "function": "前掌响应",
+          "unknown": "气囊长宽、压力及嵌入泡棉深度未公开",
+          "source": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001",
+          "description": "前掌下方 · 前掌响应",
+          "level": 0.31,
+          "explodeRank": 3,
+          "color": "#54d8e5"
+        },
+        {
+          "id": "cushlon",
+          "title": "全掌 Cushlon 3.0",
+          "type": "foam",
+          "zone": "full",
+          "location": "前掌至后跟",
+          "relationship": "全掌中底泡棉，与前掌 Zoom 配合；剖面厚度未公开",
+          "function": "连续缓震与承托",
+          "unknown": "精确边界及密度分区未公开",
+          "source": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001",
+          "description": "前掌至后跟 · 连续缓震与承托",
+          "level": 0.12,
+          "explodeRank": 1.8,
+          "color": "#719fe3",
+          "visualDepth": 0.18
+        },
+        {
+          "id": "flyplate",
+          "title": "TPU FlyPlate",
+          "type": "plate",
+          "zone": "forefoot-arch",
+          "location": "前掌下方，延伸穿过足弓并上翻至侧面",
+          "relationship": "Nike 明确 FlyPlate 位于前掌 Zoom 下方；侧墙抬升提供包覆",
+          "function": "前掌推进与侧向支撑",
+          "unknown": "TPU 板的厚度、精确三维边界和硬度未公开",
+          "source": "https://about.nike.com/en/newsroom/releases/nike-and-sabrina-ionescu-introduce-the-sabrina-4-signature-collection",
+          "description": "前掌下方，延伸穿过足弓并上翻至侧面 · 前掌推进与侧向支撑",
+          "level": 0.08,
+          "explodeRank": 1.1,
+          "color": "#529dff"
+        },
+        {
+          "id": "band",
+          "title": "内部中足带与拉索",
+          "type": "upper",
+          "zone": "midfoot",
+          "location": "中足鞋面内部",
+          "relationship": "带与拉索共同锁住足部，配合后跟底层加固",
+          "function": "减少鞋内移动",
+          "unknown": "锁定带属于鞋面，不冒充脚底碳板",
+          "source": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001",
+          "description": "中足鞋面内部 · 减少鞋内移动",
+          "level": 0.1,
+          "explodeRank": 1,
+          "color": "#82b2ef"
+        },
+        {
+          "id": "outsole",
+          "title": "S 形同心圆外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "接触地面层",
+          "relationship": "抓地围绕多向切入、转身和制动设计",
+          "function": "多向抓地",
+          "unknown": "模型沟槽是示意，精确形状看官方外底实拍",
+          "source": "https://www.nike.com/t/sabrina-4-light-work-basketball-shoes-w6hcut9C/IX5223-001",
+          "description": "接触地面层 · 多向抓地",
+          "level": -0.04,
+          "explodeRank": 0,
+          "color": "#dce7f6"
+        }
+      ],
+      "structureSummary": "前掌 Zoom 下方的 FlyPlate 穿过足弓并上翻侧墙，是这款与其他 Nike 鞋款的重要区别。",
+      "shape": {
+        "width": 0.96,
+        "heel": 0.9,
+        "waist": 0.92
+      },
+      "techImages": [],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。"
+    },
+    {
+      "id": "nike-ja4",
+      "name": "Nike Ja 4",
+      "short": "Ja 4",
+      "brand": "Nike",
+      "series": "NIKE / JA MORANT",
+      "subtitle": "SPRPWR × Cushlon · 爆发起跳",
+      "color": "#508bff",
+      "year": "2026.08",
+      "releaseNote": "2026.08.13 系列全球零售发布",
+      "releaseSource": "https://about.nike.com/en/newsroom/releases/become-a-defenders-worst-nightmare-with-the-nike-ja-4-ja-morant-fourth-signature-shoe",
+      "colorway": "Black / Cobalt Bliss / Dark Smoke Grey / Metallic Silver",
+      "styleCode": "IM4135-001 · 成人原版",
+      "photos": [
+        "/shoes/ja4-2026-01.webp",
+        "/shoes/ja4-2026-02.webp",
+        "/shoes/ja4-2026-03.webp",
+        "/shoes/ja4-2026-04.webp",
+        "/shoes/ja4-2026-05.webp",
+        "/shoes/ja4-2026-06.webp"
+      ],
+      "scores": [
+        9,
+        8,
+        8,
+        6,
+        8
+      ],
+      "plays": [
+        "quick",
+        "jump"
+      ],
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "roleReason": "可推荐给直线冲击、起跳攻框与爆发切入型后卫。依据是双层泡棉结构、中足 JA-Frame 与官方起跳落地设计方向",
+      "advice": "可推荐给直线冲击、起跳攻框与爆发切入型后卫。依据是双层泡棉结构、中足 JA-Frame 与官方起跳落地设计方向",
+      "caution": "这些判断依据配置，未经统一实测；请结合脚型、尺码和试穿，粗糙外场需留意外底损耗。",
+      "weight": {
+        "grams": 392,
+        "label": "Nike 官方约值 · 男 US 9",
+        "source": "https://www.nike.com/t/ja-4-dark-mode-basketball-shoes-7XI5MIrv/IM4135-001"
+      },
+      "imageSource": "https://www.nike.com/t/ja-4-dark-mode-basketball-shoes-7XI5MIrv/IM4135-001",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "SPRPWR 超临界泡棉鞋垫 + Cushlon 3.0",
+          "source": "https://about.nike.com/en/newsroom/releases/become-a-defenders-worst-nightmare-with-the-nike-ja-4-ja-morant-fourth-signature-shoe"
+        },
+        {
+          "label": "支撑",
+          "value": "TPU JA-Frame 环绕中足，强化侧向锁定",
+          "source": "https://www.nike.com/t/ja-4-dark-mode-basketball-shoes-7XI5MIrv/IM4135-001"
+        },
+        {
+          "label": "鞋面",
+          "value": "泡棉与网眼 + 触感加固覆盖层",
+          "source": "https://www.nike.com/t/ja-4-dark-mode-basketball-shoes-7XI5MIrv/IM4135-001"
+        },
+        {
+          "label": "外底",
+          "value": "Ja 标志启发的橡胶抓地纹路",
+          "source": "https://www.nike.com/t/ja-4-dark-mode-basketball-shoes-7XI5MIrv/IM4135-001"
+        }
+      ],
+      "layers": [
+        {
+          "id": "sprpwr",
+          "title": "SPRPWR 超临界泡棉鞋垫",
+          "type": "insole",
+          "zone": "full",
+          "location": "近脚底鞋垫层",
+          "relationship": "官方明确叠放于 Cushlon 3.0 中底上方",
+          "function": "响应与起跳反馈",
+          "unknown": "密度、厚度及具体配方未公开",
+          "source": "https://about.nike.com/en/newsroom/releases/become-a-defenders-worst-nightmare-with-the-nike-ja-4-ja-morant-fourth-signature-shoe",
+          "description": "近脚底鞋垫层 · 响应与起跳反馈",
+          "level": 0.31,
+          "explodeRank": 2.7,
+          "color": "#b9d9f3",
+          "visualDepth": 0.07
+        },
+        {
+          "id": "cushlon",
+          "title": "Cushlon 3.0 中底",
+          "type": "foam",
+          "zone": "midsole",
+          "location": "鞋垫下方 · 覆盖范围待公开",
+          "relationship": "与上层 SPRPWR 构成双泡棉缓震",
+          "function": "承托与落地缓震",
+          "unknown": "官方未明确全掌范围；不沿用 Ja 3 的 ZoomX 配置",
+          "source": "https://www.nike.com/t/ja-4-dark-mode-basketball-shoes-7XI5MIrv/IM4135-001",
+          "description": "鞋垫下方 · 覆盖范围待公开 · 承托与落地缓震",
+          "level": 0.07,
+          "explodeRank": 1.5,
+          "color": "#6f9fe2",
+          "visualDepth": 0.22
+        },
+        {
+          "id": "jaframe",
+          "title": "TPU JA-Frame",
+          "type": "frame",
+          "zone": "midfoot",
+          "location": "中足外侧与环绕包覆区",
+          "relationship": "侧向框架围绕中足工作，不是平铺于整个脚底的板",
+          "function": "变向时限制侧向位移",
+          "unknown": "完整环绕边界与硬度未公开；未核实独立气垫或碳板",
+          "source": "https://about.nike.com/en/newsroom/releases/become-a-defenders-worst-nightmare-with-the-nike-ja-4-ja-morant-fourth-signature-shoe",
+          "description": "中足外侧与环绕包覆区 · 变向时限制侧向位移",
+          "level": 0.08,
+          "explodeRank": 0.65,
+          "color": "#4c8efa"
+        },
+        {
+          "id": "outsole",
+          "title": "Ja 标志橡胶外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "接触地面层",
+          "relationship": "从 Ja 标志发展抓地纹路，服务制动与攻框",
+          "function": "停起与前向抓地",
+          "unknown": "耐磨等级未经统一实测；模型纹理为示意",
+          "source": "https://www.nike.com/t/ja-4-dark-mode-basketball-shoes-7XI5MIrv/IM4135-001",
+          "description": "接触地面层 · 停起与前向抓地",
+          "level": -0.03,
+          "explodeRank": 0,
+          "color": "#d5e3f6"
+        }
+      ],
+      "structureSummary": "SPRPWR 在上、Cushlon 3.0 在下；中足 JA-Frame 提供侧向包覆。官网配置未列 Air Zoom。",
+      "shape": {
+        "width": 1.03,
+        "heel": 0.92,
+        "waist": 1
+      },
+      "techImages": [],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。",
+      "fit": {
+        "snug": true,
+        "runsSmall": false,
+        "source": "https://www.nike.com/t/ja-4-dark-mode-basketball-shoes-7XI5MIrv/IM4135-001"
+      }
+    },
+    {
+      "id": "nike-book2",
+      "name": "Nike Book 2",
+      "short": "Book 2",
+      "brand": "Nike",
+      "series": "NIKE / DEVIN BOOKER",
+      "subtitle": "前掌 Zoom · 节奏与急停",
+      "color": "#508bff",
+      "year": "2026.01",
+      "releaseNote": "系列 2026.01 零售首发 · 配色首售日待核实",
+      "releaseSource": "https://about.nike.com/en/newsroom/releases/nike-book-2-official-images-release-info",
+      "colorway": "Court Purple / Platinum Violet / Black / Sail",
+      "styleCode": "FZ7013-500 · 成人原版",
+      "photos": [
+        "/shoes/book2-2026-01.webp",
+        "/shoes/book2-2026-02.webp",
+        "/shoes/book2-2026-03.webp",
+        "/shoes/book2-2026-04.webp",
+        "/shoes/book2-2026-05.webp",
+        "/shoes/book2-2026-06.webp"
+      ],
+      "scores": [
+        8,
+        8,
+        8,
+        6,
+        6
+      ],
+      "plays": [
+        "quick",
+        "jump"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "可推荐给以节奏变化、试探步、急停后撤和跳投为主的后卫或锋卫。依据是前掌 Zoom、较低重心设计与中足锁定",
+      "advice": "可推荐给以节奏变化、试探步、急停后撤和跳投为主的后卫或锋卫。依据是前掌 Zoom、较低重心设计与中足锁定",
+      "caution": "这些判断依据配置，未经统一实测；请结合脚型、尺码和试穿，粗糙外场需留意外底损耗。",
+      "weight": {
+        "grams": 450,
+        "label": "Nike 官方约值 · 男 US 9",
+        "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500"
+      },
+      "imageSource": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "前掌 Air Zoom + Cushlon 3.0 中底",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500"
+        },
+        {
+          "label": "脚床",
+          "value": "柔软泡棉鞋垫",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500"
+        },
+        {
+          "label": "锁定",
+          "value": "中足织带 + 模压鞋面",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500"
+        },
+        {
+          "label": "外底",
+          "value": "日光纹理人字形抓地",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500"
+        }
+      ],
+      "layers": [
+        {
+          "id": "sockliner",
+          "title": "柔软泡棉鞋垫",
+          "type": "insole",
+          "zone": "full",
+          "location": "足底接触层",
+          "relationship": "鞋垫在足底与中底之间；具体厚度未公布",
+          "function": "改善足底舒适度",
+          "unknown": "泡棉配方、密度与厚度未公开",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500",
+          "description": "足底接触层 · 改善足底舒适度",
+          "level": 0.4,
+          "explodeRank": 3.1,
+          "color": "#c7daef",
+          "visualDepth": 0.055
+        },
+        {
+          "id": "zoom",
+          "title": "前掌 Air Zoom",
+          "type": "air",
+          "zone": "forefoot",
+          "location": "前掌下方",
+          "relationship": "官方明确从 Book 1 后跟移到 Book 2 前掌；与 Cushlon 3.0 配合",
+          "function": "前掌启动与响应",
+          "unknown": "气囊轮廓、厚度、压力及嵌入深度未公开",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500",
+          "description": "前掌下方 · 前掌启动与响应",
+          "level": 0.22,
+          "explodeRank": 2.2,
+          "color": "#53d6e7"
+        },
+        {
+          "id": "cushlon",
+          "title": "Cushlon 3.0 中底",
+          "type": "foam",
+          "zone": "midsole",
+          "location": "中底区域 · 覆盖范围待公开",
+          "relationship": "官方确认中底泡棉，与前掌气垫组成缓震系统",
+          "function": "承托与缓震",
+          "unknown": "官网没有明确泡棉的纵向边界；模型使用展示包络",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500",
+          "description": "中底区域 · 覆盖范围待公开 · 承托与缓震",
+          "level": 0.08,
+          "explodeRank": 1.25,
+          "color": "#6a9ddb",
+          "visualDepth": 0.2
+        },
+        {
+          "id": "webbing",
+          "title": "中足织带锁定",
+          "type": "upper",
+          "zone": "midfoot",
+          "location": "中足鞋面",
+          "relationship": "织带与模压鞋面协同包覆，属于鞋面结构",
+          "function": "试探步与转身时锁定",
+          "unknown": "未证实独立碳板或其他抗扭片；不把织带画成中底板",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500",
+          "description": "中足鞋面 · 试探步与转身时锁定",
+          "level": 0.1,
+          "explodeRank": 1,
+          "color": "#82b2ef"
+        },
+        {
+          "id": "outsole",
+          "title": "人字纹橡胶外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "接触地面层",
+          "relationship": "外底承接制动与加速；细节见底部实拍",
+          "function": "急停与切入抓地",
+          "unknown": "模型纹理用于辨识外底层，非精确橡胶沟槽",
+          "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500",
+          "description": "接触地面层 · 急停与切入抓地",
+          "level": -0.03,
+          "explodeRank": 0,
+          "color": "#d5e3f4"
+        }
+      ],
+      "structureSummary": "前掌气垫 + 中底泡棉，配合中足鞋面织带；没有沿用 Book 1 的后跟气垫位置。",
+      "shape": {
+        "width": 0.94,
+        "heel": 0.97,
+        "waist": 0.94
+      },
+      "techImages": [],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。",
+      "fit": {
+        "snug": true,
+        "runsSmall": false,
+        "source": "https://www.nike.com/t/tenis-de-basquetbol-book-2-sunburst-bSDIOe8x/FZ7013-500"
+      }
+    },
+    {
+      "id": "lining-gamma-2",
+      "name": "李宁 伽马 2",
+      "short": "伽马 2",
+      "brand": "LI-NING / 李宁",
+      "series": "LI-NING / GAMMA II",
+      "subtitle": "超䨻 × 碳核芯嵌套结构",
+      "color": "#508bff",
+      "year": "2026 官方发布",
+      "releaseNote": "2026.08 官方财报确认 · 第 24 页",
+      "releaseSource": "https://ir.lining.com/en/ir/presentations/pre260820.pdf",
+      "colorway": "官方绿色发布图 · 配色名称未公开",
+      "styleCode": "官方 SKU 暂未核实",
+      "photos": [
+        "/shoes/gamma2-announcement.webp"
+      ],
+      "mediaKind": "官方发布图",
+      "scores": [
+        9,
+        7,
+        9,
+        6,
+        8
+      ],
+      "plays": [
+        "quick",
+        "all"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "根据鞋垫响应与碳核芯的支撑定位，建议切入和全能攻防型后卫／侧翼优先了解；资料尚有限，推荐仅作初筛。",
+      "advice": "可优先关注嵌套鞋垫的响应与侧向支撑；与其他鞋比较时，建议等实物试穿确认贴地感和脚型适配。",
+      "caution": "SKU、重量、完整碳板边界与外底材料仍未核实，暂不下确定的外场耐磨结论。",
+      "weight": null,
+      "imageSource": "https://ir.lining.com/en/ir/presentations/pre260820.pdf",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "超䨻 鞋垫引力系统",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf"
+        },
+        {
+          "label": "结构",
+          "value": "碳核芯 Carbon Core Drive System · 嵌套组合",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf"
+        },
+        {
+          "label": "侧向",
+          "value": "官方后侧结构标注 CARBON-FIBER PLATE",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf"
+        },
+        {
+          "label": "资料",
+          "value": "官方财报第 24 页 · 外底材质待核实",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf"
+        }
+      ],
+      "layers": [
+        {
+          "id": "superboom",
+          "title": "超䨻 鞋垫引力系统",
+          "type": "insole",
+          "zone": "full",
+          "location": "全长金色鞋垫形组件",
+          "relationship": "官方爆炸图显示在碳核芯底盘上方，组合为嵌套结构",
+          "function": "足底缓震与响应",
+          "unknown": "厚度、密度、可抽取方式和固定结构未公开",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf",
+          "description": "全长金色鞋垫形组件 · 足底缓震与响应",
+          "level": 0.32,
+          "explodeRank": 2.9,
+          "color": "#d1bc87",
+          "visualDepth": 0.075
+        },
+        {
+          "id": "carboncore",
+          "title": "Carbon Core Drive System",
+          "type": "chassis",
+          "zone": "full",
+          "location": "下方全长杯状底盘",
+          "relationship": "官方图可见前掌大开口和足弓侧面碳色区；与上层鞋垫嵌套",
+          "function": "结构支撑与力传递",
+          "unknown": "白色底盘材料、完整碳边界及内部层序未知，不能称全掌碳板",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf",
+          "description": "下方全长杯状底盘 · 结构支撑与力传递",
+          "level": 0.06,
+          "explodeRank": 1.2,
+          "color": "#d3dfef",
+          "visualDepth": 0.12,
+          "rim": true,
+          "cavity": "forefoot",
+          "archInset": true
+        },
+        {
+          "id": "sidecarbon",
+          "title": "后侧碳纤维支撑区",
+          "type": "wing",
+          "zone": "heel",
+          "location": "官方图标注的后足外侧上翻部位",
+          "relationship": "另一张官方海报明确标注 CARBON-FIBER PLATE；仅重建可见侧面范围",
+          "function": "后侧支撑",
+          "unknown": "完整绕跟范围、厚度与刚度未公开",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf",
+          "description": "官方图标注的后足外侧上翻部位 · 后侧支撑",
+          "level": 0.1,
+          "explodeRank": 0.6,
+          "color": "#b7c4d9",
+          "material": "carbon"
+        }
+      ],
+      "structureSummary": "依据官方两张结构海报重建：全长鞋垫嵌入杯状碳核芯底盘，前掌有开口，后侧有碳纤维标注。",
+      "shape": {
+        "width": 0.94,
+        "heel": 0.95,
+        "waist": 0.8
+      },
+      "techImages": [
+        {
+          "src": "/shoes/gamma2-tech-1.webp",
+          "title": "鞋垫与碳核芯嵌套结构",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf",
+          "kind": "官方结构图"
+        },
+        {
+          "src": "/shoes/gamma2-tech-2.webp",
+          "title": "后侧碳纤维官方标注",
+          "source": "https://ir.lining.com/en/ir/presentations/pre260820.pdf",
+          "kind": "官方结构图"
+        }
+      ],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。",
+      "configurationIncomplete": true
+    },
+    {
+      "id": "nike-kd19",
+      "name": "Nike KD19",
+      "short": "KD19",
+      "brand": "Nike",
+      "series": "NIKE / KEVIN DURANT",
+      "subtitle": "Zoom Strobel · 锁定侧翼",
+      "color": "#508bff",
+      "year": "2026.06",
+      "releaseNote": "2026.06.13 SNKRS / 06.17 全球上市",
+      "releaseSource": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19",
+      "colorway": "Bright Ceramic / Stadium Green / University Gold",
+      "styleCode": "IH1117-800 · 成人原版",
+      "photos": [
+        "/shoes/nike-kd19-01.webp",
+        "/shoes/nike-kd19-02.webp",
+        "/shoes/nike-kd19-03.webp",
+        "/shoes/nike-kd19-04.webp",
+        "/shoes/nike-kd19-05.webp",
+        "/shoes/nike-kd19-06.webp"
+      ],
+      "scores": [
+        9,
+        8,
+        9,
+        6,
+        5
+      ],
+      "plays": [
+        "all",
+        "jump",
+        "power"
+      ],
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "roleReason": "全掌气垫与 Cushlon 3.0 配合，中足支撑片和外置 TPU 加强锁定。建议多点投射、侧翼单打与移动四号位优先试穿。",
+      "advice": "多点投射、侧翼单打和全场跑动的球员，可先关注 KD19 的气垫缓震与中足、后跟锁定。它不偏向极致轻量。",
+      "caution": "官方约 501 g（男 US 9 单鞋），重视轻快负重感的球员建议与另一双上脚比较。",
+      "weight": {
+        "grams": 501,
+        "label": "Nike 官方约值 · 男 US 9",
+        "source": "https://www.nike.com/t/kd19-blueberry-blast-basketball-shoes-zqaHv2aX/IH1117-800"
+      },
+      "imageSource": "https://www.nike.com/t/kd19-blueberry-blast-basketball-shoes-zqaHv2aX/IH1117-800",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "全掌 Air Zoom Strobel + Cushlon 3.0",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19"
+        },
+        {
+          "label": "脚床",
+          "value": "3D 模压鞋垫",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19"
+        },
+        {
+          "label": "支撑",
+          "value": "中足支撑片 + 双注塑外置 TPU 锁定",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19"
+        },
+        {
+          "label": "鞋舌",
+          "value": "织物鞋舌 · 调整鞋面包覆",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19"
+        },
+        {
+          "label": "外底",
+          "value": "强抓地设计 · 35 / 7 图案细节",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19"
+        }
+      ],
+      "layers": [
+        {
+          "id": "sockliner",
+          "title": "3D 模压鞋垫",
+          "type": "insole",
+          "zone": "full",
+          "location": "足底鞋垫层",
+          "relationship": "官方将模压鞋垫与 Strobel、Cushlon 配对；没有完整层序图",
+          "function": "足底贴合与舒适",
+          "unknown": "鞋垫厚度及精确与气垫叠放关系未公开",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19",
+          "description": "足底鞋垫层 · 足底贴合与舒适",
+          "level": 0.41,
+          "explodeRank": 3.5,
+          "color": "#bcd7ed",
+          "visualDepth": 0.055
+        },
+        {
+          "id": "strobel",
+          "title": "全掌 Air Zoom Strobel",
+          "type": "air",
+          "zone": "full",
+          "location": "前掌至后跟 · 与鞋面直接缝合",
+          "relationship": "Nike 明确气垫直接缝合到鞋面，属于近脚底缓震组件",
+          "function": "全掌响应缓震",
+          "unknown": "气囊轮廓、压力和厚度未公开",
+          "source": "https://www.nike.com/t/kd19-blueberry-blast-basketball-shoes-zqaHv2aX/IH1117-800",
+          "description": "前掌至后跟 · 与鞋面直接缝合 · 全掌响应缓震",
+          "level": 0.3,
+          "explodeRank": 2.7,
+          "color": "#59d3e4"
+        },
+        {
+          "id": "cushlon",
+          "title": "Cushlon 3.0 中底",
+          "type": "foam",
+          "zone": "midsole",
+          "location": "中底区域 · 覆盖范围待公开",
+          "relationship": "与模压鞋垫、全掌气垫构成多层缓震",
+          "function": "泡棉缓震与承托",
+          "unknown": "官网未明确泡棉完整纵向范围，形状为展示包络",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19",
+          "description": "中底区域 · 覆盖范围待公开 · 泡棉缓震与承托",
+          "level": 0.07,
+          "explodeRank": 1.4,
+          "color": "#76a8e8",
+          "visualDepth": 0.2
+        },
+        {
+          "id": "shank",
+          "title": "中足稳定片",
+          "type": "plate",
+          "zone": "midfoot",
+          "location": "中足下方",
+          "relationship": "官方明确在中足设置 shank；材质没有公开",
+          "function": "中足抗扭稳定",
+          "unknown": "不能标为碳纤维；精确嵌入深度与边界未知",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19",
+          "description": "中足下方 · 中足抗扭稳定",
+          "level": 0.04,
+          "explodeRank": 0.65,
+          "color": "#88a6ca"
+        },
+        {
+          "id": "external",
+          "title": "双注塑外置 TPU",
+          "type": "upper",
+          "zone": "midfoot",
+          "location": "鞋外中足与后跟锁定区",
+          "relationship": "匕首形外置 TPU 是包覆部件，区别于内部稳定片",
+          "function": "锁定中足与后跟",
+          "unknown": "不把鞋面外置件画成全掌中底板",
+          "source": "https://about.nike.com/zh-Hans/newsroom/releases/nike-kd19",
+          "description": "鞋外中足与后跟锁定区 · 锁定中足与后跟",
+          "level": 0.12,
+          "explodeRank": 0.8,
+          "color": "#82b2ef"
+        },
+        {
+          "id": "outsole",
+          "title": "橡胶抓地外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "接触地面层",
+          "relationship": "抓地层服务多向运动，图案见真实外底照片",
+          "function": "制动抓地",
+          "unknown": "精确纹路与尺寸以实物为准",
+          "source": "https://www.nike.com/t/kd19-blueberry-blast-basketball-shoes-zqaHv2aX/IH1117-800",
+          "description": "接触地面层 · 制动抓地",
+          "level": -0.03,
+          "explodeRank": 0,
+          "color": "#d9e7f6"
+        }
+      ],
+      "structureSummary": "全掌 Strobel 直接缝到鞋面；Cushlon 3.0 与模压鞋垫配合。中足稳定片材质未公开，外置 TPU 负责锁定。",
+      "shape": {
+        "width": 1.08,
+        "heel": 1.06,
+        "waist": 0.95
+      },
+      "techImages": [],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。",
+      "fit": {
+        "snug": true,
+        "runsSmall": true,
+        "source": "https://www.nike.com/t/kd19-blueberry-blast-basketball-shoes-zqaHv2aX/IH1117-800"
+      }
+    },
+    {
+      "id": "air-jordan-41",
+      "name": "Air Jordan 41",
+      "short": "Air Jordan 41",
+      "brand": "Jordan",
+      "series": "JORDAN / GAME SHOE",
+      "subtitle": "ZoomX + 双气垫 · 全能进阶",
+      "color": "#39cce7",
+      "year": "2026.08",
+      "releaseNote": "2026.08.28 中国首发（限定款）",
+      "releaseSource": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41",
+      "colorway": "Ruby · University Red / Infrared 23",
+      "styleCode": "HV6474-601 · 成人原版（非 PF）",
+      "photos": [
+        "/shoes/air-jordan41-01.webp",
+        "/shoes/air-jordan41-02.webp",
+        "/shoes/air-jordan41-03.webp",
+        "/shoes/air-jordan41-04.webp",
+        "/shoes/air-jordan41-05.webp",
+        "/shoes/air-jordan41-06.webp"
+      ],
+      "coverIndex": 1,
+      "scores": [
+        10,
+        9,
+        9,
+        7,
+        6
+      ],
+      "plays": [
+        "all",
+        "jump",
+        "power"
+      ],
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "roleReason": "全掌 Strobel、ZoomX 与后跟气垫覆盖缓震需求，碳纤维 + TPU 支撑片强调稳定。建议兼顾切入、投射、防守的二至四号位优先试穿。",
+      "advice": "兼顾切入、投射、防守和落地缓震时，可先试 Air Jordan 41 的多单元缓震与抗扭组合，尤其是全能侧翼和移动锋线。",
+      "caution": "配置丰富不等于适合所有脚型或大体重中锋；重量未核实，足弓压力、宽度和落地稳定性需试穿确认。",
+      "weight": null,
+      "imageSource": "https://www.nike.com/gb/t/air-jordan-41-ruby-basketball-shoes-7tNpGhRr/HV6474-601",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "全掌 Zoom Strobel + ZoomX 中底 + 后跟 Air Zoom",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41"
+        },
+        {
+          "label": "支撑",
+          "value": "碳纤维 + TPU 稳定片 · 完整边界待公开",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41"
+        },
+        {
+          "label": "鞋面",
+          "value": "纳米印刷网眼与分区薄型织物",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41"
+        },
+        {
+          "label": "外底",
+          "value": "全掌 HART 橡胶 · 人字纹抓地",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41"
+        }
+      ],
+      "layers": [
+        {
+          "id": "strobel",
+          "title": "全掌 Zoom Strobel",
+          "type": "air",
+          "zone": "full",
+          "location": "前掌至后跟的近脚底气垫",
+          "relationship": "与 ZoomX 和新增后跟 Air Zoom 共同组成缓震系统",
+          "function": "全掌响应",
+          "unknown": "气囊轮廓、压力与厚度未公开",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41",
+          "description": "前掌至后跟的近脚底气垫 · 全掌响应",
+          "level": 0.35,
+          "explodeRank": 3.4,
+          "color": "#61d6e8"
+        },
+        {
+          "id": "zoomx",
+          "title": "ZoomX 中底",
+          "type": "foam",
+          "zone": "midsole",
+          "location": "中底泡棉区域",
+          "relationship": "官方发布确认 ZoomX；本档案为成人原版，避免套用 PF 专属细节",
+          "function": "轻量回弹与缓震",
+          "unknown": "精确几何、密度及后跟气垫嵌入层位未公开",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41",
+          "description": "中底泡棉区域 · 轻量回弹与缓震",
+          "level": 0.08,
+          "explodeRank": 1.4,
+          "color": "#6fa9ed",
+          "visualDepth": 0.23
+        },
+        {
+          "id": "heelair",
+          "title": "额外后跟 Air Zoom",
+          "type": "air",
+          "zone": "heel",
+          "location": "后跟局部，与全掌 Strobel 在后足范围叠加",
+          "relationship": "官方确认新增后跟单元；不据此猜测它相对 ZoomX 的精确上下次序",
+          "function": "后跟缓震",
+          "unknown": "型号资料未公开垂直层位、气囊直径与厚度",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41",
+          "description": "后跟局部，与全掌 Strobel 在后足范围叠加 · 后跟缓震",
+          "level": 0.25,
+          "explodeRank": 2.4,
+          "color": "#4cbdd7"
+        },
+        {
+          "id": "shank",
+          "title": "碳纤维 + TPU 稳定片",
+          "type": "plate",
+          "zone": "unknown",
+          "location": "抗扭件 · 完整分布待公开",
+          "relationship": "官方确认两种材料组合，未明确板的完整投影与内部层位",
+          "function": "变向稳定",
+          "unknown": "不自行补造全掌碳板，也不将两材料边界当作已知",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41",
+          "description": "抗扭件 · 完整分布待公开 · 变向稳定",
+          "level": 0.04,
+          "explodeRank": 0.7,
+          "color": "#9fb7d7"
+        },
+        {
+          "id": "outsole",
+          "title": "全掌 HART 人字纹橡胶",
+          "type": "outsole",
+          "zone": "full",
+          "location": "全掌接地外底",
+          "relationship": "发布资料明确全掌 HART 橡胶，服务方向变化",
+          "function": "人字纹抓地",
+          "unknown": "没有将 PF 的外底差异移植到成人原版",
+          "source": "https://about.nike.com/en/newsroom/releases/jordan-brand-basketball-enters-a-new-era-of-design-and-innovation-with-the-air-jordan-41",
+          "description": "全掌接地外底 · 人字纹抓地",
+          "level": -0.03,
+          "explodeRank": 0,
+          "color": "#dbe8f5"
+        }
+      ],
+      "structureSummary": "全掌 Strobel + ZoomX，再增加后跟 Air Zoom。后跟的覆盖范围可确认，具体气垫层序未公开。",
+      "shape": {
+        "width": 1.03,
+        "heel": 1,
+        "waist": 0.92
+      },
+      "techImages": [],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。"
+    },
+    {
+      "id": "anta-kai-3",
+      "name": "安踏 KAI 3",
+      "short": "KAI 3",
+      "brand": "ANTA / 安踏",
+      "series": "ANTA / KYRIE IRVING",
+      "subtitle": "全掌氮科技 · 节奏变向",
+      "color": "#39cce7",
+      "year": "2026.01",
+      "releaseNote": "2026 年 1 月新系列",
+      "releaseSource": "https://anta.com/blogs/product-information/anta-kai-3-cny-a-celebration-of-new-beginnings",
+      "colorway": "KAI Mentality · Purple / Golden",
+      "styleCode": "8126B1102-2 · 成人款",
+      "photos": [
+        "/shoes/anta-kai3-01.webp",
+        "/shoes/anta-kai3-02.webp",
+        "/shoes/anta-kai3-03.webp",
+        "/shoes/anta-kai3-04.webp",
+        "/shoes/anta-kai3-05.webp"
+      ],
+      "scores": [
+        8,
+        9,
+        9,
+        7,
+        7
+      ],
+      "plays": [
+        "quick",
+        "all"
+      ],
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "roleReason": "全掌氮科技承担缓震，中足碳板和 TPU 侧墙提供抗扭与包覆配置。建议频繁运球变向、连续突破的后卫优先试穿。",
+      "advice": "如果你靠节奏运球、方向变化和连续突破制造机会，KAI 3 的碳板、TPU 侧墙和氮科技组合值得先试。",
+      "caution": "尚无已核实的同尺码重量与统一磨耗数据；脚宽、足弓压力及鞋面锁定应通过试穿判断。",
+      "weight": null,
+      "imageSource": "https://id.anta.com/products/anta-kai-3-kai-mentality",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "全掌氮科技 · Full-Palm Nitrogen Technology",
+          "source": "https://anta.com/blogs/product-information/anta-kai-3-cny-a-celebration-of-new-beginnings"
+        },
+        {
+          "label": "支撑",
+          "value": "中足碳纤维板 + TPU 侧墙",
+          "source": "https://anta.com/blogs/product-information/anta-kai-3-cny-a-celebration-of-new-beginnings"
+        },
+        {
+          "label": "包覆",
+          "value": "后跟填充与手工缝线鞋面设计",
+          "source": "https://anta.com/blogs/product-information/anta-kai-3-cny-a-celebration-of-new-beginnings"
+        },
+        {
+          "label": "外底",
+          "value": "防滑抓地纹路 · 变向与制动",
+          "source": "https://anta.com/blogs/product-information/anta-kai-3-cny-a-celebration-of-new-beginnings"
+        }
+      ],
+      "layers": [
+        {
+          "id": "nitrogen",
+          "title": "全掌氮科技泡棉",
+          "type": "foam",
+          "zone": "full",
+          "location": "前掌至后跟中底",
+          "relationship": "官方 Full-Palm Nitrogen Technology；不是 Zoom 或可见空气囊",
+          "function": "响应缓震",
+          "unknown": "厚度、密度和泡孔参数未公开",
+          "source": "https://id.anta.com/products/anta-kai-3-kai-mentality",
+          "description": "前掌至后跟中底 · 响应缓震",
+          "level": 0.12,
+          "explodeRank": 2.3,
+          "color": "#78aceb",
+          "visualDepth": 0.22
+        },
+        {
+          "id": "carbon",
+          "title": "中足碳纤维板",
+          "type": "carbon",
+          "zone": "midfoot",
+          "location": "中足下方",
+          "relationship": "官方确认 midfoot carbon-fiber plate",
+          "function": "抗扭与推进",
+          "unknown": "平面边界、长度及具体嵌入层位未公开",
+          "source": "https://id.anta.com/products/anta-kai-3-kai-mentality",
+          "description": "中足下方 · 抗扭与推进",
+          "level": 0.06,
+          "explodeRank": 1.4,
+          "color": "#a8bfdc"
+        },
+        {
+          "id": "tpu",
+          "title": "TPU 侧墙支撑",
+          "type": "frame",
+          "zone": "midfoot",
+          "location": "鞋底侧面支撑区",
+          "relationship": "配合中足碳板维持侧向稳定；图示侧墙与底部板分开",
+          "function": "侧向锁定",
+          "unknown": "完整环绕边界与硬度未公开",
+          "source": "https://id.anta.com/products/anta-kai-3-kai-mentality",
+          "description": "鞋底侧面支撑区 · 侧向锁定",
+          "level": 0.13,
+          "explodeRank": 0.65,
+          "color": "#5a91d9"
+        },
+        {
+          "id": "outsole",
+          "title": "多向抓地外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "接触地面层",
+          "relationship": "纹路服务变向与制动，具体形状见官方底部实拍",
+          "function": "多向抓地",
+          "unknown": "模型橡胶纹路为示意，未经耐磨等级实测",
+          "source": "https://id.anta.com/products/anta-kai-3-kai-mentality",
+          "description": "接触地面层 · 多向抓地",
+          "level": -0.03,
+          "explodeRank": 0,
+          "color": "#dce8f6"
+        }
+      ],
+      "structureSummary": "全掌氮科技泡棉承托，中足碳板负责抗扭，侧墙 TPU 限制侧向移动。",
+      "shape": {
+        "width": 1.03,
+        "heel": 0.96,
+        "waist": 0.92
+      },
+      "techImages": [],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。"
+    },
+    {
+      "id": "wade-808-6-ultra",
+      "name": "李宁 Wade 808 6 Ultra",
+      "short": "808 6 Ultra",
+      "brand": "LI-NING / 李宁",
+      "series": "LI-NING / WAY OF WADE",
+      "subtitle": "双密度 超䨻 · 灵活启动",
+      "color": "#609ff7",
+      "year": "2026 新系列",
+      "releaseNote": "官方介绍：2026.08；具体首售日待核实",
+      "releaseSource": "https://global.wayofwade.com/blogs/news/introduction-to-the-wade-808-6-ultra-series",
+      "colorway": "Silver Flash 银色闪光",
+      "styleCode": "ABAW009-10 · Ultra 成人款",
+      "photos": [
+        "/shoes/wade8086ultra-01.webp",
+        "/shoes/wade8086ultra-02.webp",
+        "/shoes/wade8086ultra-03.webp",
+        "/shoes/wade8086ultra-04.webp",
+        "/shoes/wade8086ultra-05.webp",
+        "/shoes/wade8086ultra-06.webp"
+      ],
+      "scores": [
+        9,
+        9,
+        8,
+        7,
+        8
+      ],
+      "plays": [
+        "quick",
+        "jump"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "双密度嵌入式 超䨻、中足碳板与前掌 TPU，偏向启动、切入和转换跑动的配置需求。建议后卫与灵活小前锋优先试穿。",
+      "advice": "频繁切入、转换推进或移动接球起跳时，可优先看看 808 6 Ultra 的嵌入式双密度泡棉与前掌支撑配置。",
+      "caution": "轻量分属于配置判断，尚未核实具体克数；GCU 的实际抓地和磨耗仍受灰尘、场地及配色影响。",
+      "weight": null,
+      "imageSource": "https://www.wayofwade.com/products/wade-808-6-ultra-silver-flash",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "双密度嵌入式 超䨻：主体 + 后跟插片",
+          "source": "https://global.wayofwade.com/blogs/news/introduction-to-the-wade-808-6-ultra-series"
+        },
+        {
+          "label": "支撑",
+          "value": "前掌上翻 TPU + 中足碳纤维板",
+          "source": "https://global.wayofwade.com/blogs/news/introduction-to-the-wade-808-6-ultra-series"
+        },
+        {
+          "label": "后跟",
+          "value": "LIGHTFOAM ULTRA 结构",
+          "source": "https://global.wayofwade.com/blogs/news/introduction-to-the-wade-808-6-ultra-series"
+        },
+        {
+          "label": "鞋面",
+          "value": "ULTRASHELL 包覆鞋面",
+          "source": "https://global.wayofwade.com/blogs/news/introduction-to-the-wade-808-6-ultra-series"
+        },
+        {
+          "label": "外底",
+          "value": "全掌 GCU 地面控制系统",
+          "source": "https://global.wayofwade.com/blogs/news/introduction-to-the-wade-808-6-ultra-series"
+        }
+      ],
+      "layers": [
+        {
+          "id": "carrier",
+          "title": "高密度 超䨻 主体",
+          "type": "carrier",
+          "zone": "full",
+          "location": "全长可抽取中底主体",
+          "relationship": "官方双密度图显示主体中有后跟椭圆嵌位；主体密度较高",
+          "function": "响应回弹与稳定",
+          "unknown": "密度值、厚度和可抽取接口未公开",
+          "source": "https://www.wayofwade.com/products/wade-808-6-ultra-silver-flash",
+          "description": "全长可抽取中底主体 · 响应回弹与稳定",
+          "level": 0.25,
+          "explodeRank": 3.4,
+          "color": "#b9d8ef",
+          "visualDepth": 0.13,
+          "rim": true,
+          "cavity": "heel"
+        },
+        {
+          "id": "heelinsert",
+          "title": "低密度 超䨻 后跟嵌件",
+          "type": "foam",
+          "zone": "heel",
+          "location": "可抽取主体的后跟椭圆嵌位",
+          "relationship": "嵌件仅位于后跟，嵌入高密度主体，不是第二块全掌泡棉",
+          "function": "后跟冲击缓冲",
+          "unknown": "嵌件深度及密度差值未公开",
+          "source": "https://www.wayofwade.com/products/wade-808-6-ultra-silver-flash",
+          "description": "可抽取主体的后跟椭圆嵌位 · 后跟冲击缓冲",
+          "level": 0.28,
+          "explodeRank": 4,
+          "color": "#60c4d9",
+          "visualDepth": 0.07
+        },
+        {
+          "id": "carbon",
+          "title": "中足碳纤维板",
+          "type": "carbon",
+          "zone": "midfoot",
+          "location": "下方中足区域",
+          "relationship": "官方支撑图标出中足碳板，与抽取中底分工",
+          "function": "抗扭与支撑",
+          "unknown": "完整板形、嵌入层位和延伸边界未公开",
+          "source": "https://www.wayofwade.com/products/wade-808-6-ultra-silver-flash",
+          "description": "下方中足区域 · 抗扭与支撑",
+          "level": 0.04,
+          "explodeRank": 1.35,
+          "color": "#a4bddd"
+        },
+        {
+          "id": "lightfoam",
+          "title": "LIGHT FOAM ULTRA 后跟",
+          "type": "foam",
+          "zone": "heel",
+          "location": "底部后足结构",
+          "relationship": "与抽取中底内的低密度 超䨻 后跟嵌件是不同部件",
+          "function": "后足缓震与承托",
+          "unknown": "与抽取中底的精确接口及厚度未公开",
+          "source": "https://www.wayofwade.com/products/wade-808-6-ultra-silver-flash",
+          "description": "底部后足结构 · 后足缓震与承托",
+          "level": 0.07,
+          "explodeRank": 2.1,
+          "color": "#749ed4",
+          "visualDepth": 0.17
+        },
+        {
+          "id": "tpu",
+          "title": "前掌上翻 TPU",
+          "type": "frame",
+          "zone": "forefoot",
+          "location": "前掌侧面的上翻支撑框",
+          "relationship": "官方图标出向上延伸的前掌 TPU，侧框与中足板分开",
+          "function": "切入时侧向支撑",
+          "unknown": "侧框完整范围及厚度未公开",
+          "source": "https://www.wayofwade.com/products/wade-808-6-ultra-silver-flash",
+          "description": "前掌侧面的上翻支撑框 · 切入时侧向支撑",
+          "level": 0.1,
+          "explodeRank": 0.7,
+          "color": "#598ce1"
+        },
+        {
+          "id": "gcu",
+          "title": "全掌 GCU 外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "全掌接地层",
+          "relationship": "官方产品页明确全掌 GCU 地面控制系统",
+          "function": "抓地",
+          "unknown": "精确沟槽与厚度未公开",
+          "source": "https://www.wayofwade.com/products/wade-808-6-ultra-silver-flash",
+          "description": "全掌接地层 · 抓地",
+          "level": -0.03,
+          "explodeRank": 0,
+          "color": "#d8e7f3"
+        }
+      ],
+      "structureSummary": "双密度结构是“全长主体 + 后跟局部嵌件”；此外还有独立后跟 LIGHT FOAM ULTRA、中足碳板与前掌 TPU。",
+      "shape": {
+        "width": 0.98,
+        "heel": 0.96,
+        "waist": 0.82
+      },
+      "techImages": [
+        {
+          "src": "/shoes/8086-tech-1.webp",
+          "title": "双密度可抽取中底 · 后跟嵌件",
+          "source": "https://www.wayofwade.com/en-au/products/wade-808-6-ultra-red-stingray?variant=49572739678423",
+          "kind": "官方结构图"
+        },
+        {
+          "src": "/shoes/8086-tech-2.webp",
+          "title": "中足碳板、前掌 TPU 与后跟结构",
+          "source": "https://www.wayofwade.com/en-au/products/wade-808-6-ultra-red-stingray?variant=49572739678423",
+          "kind": "官方结构图"
+        }
+      ],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。"
+    },
+    {
+      "id": "adidas-harden-vol-10",
+      "name": "adidas Harden Vol.10",
+      "short": "Harden Vol.10",
+      "brand": "adidas",
+      "series": "ADIDAS / JAMES HARDEN",
+      "subtitle": "LIGHTBOOST · 节奏单打",
+      "color": "#508bff",
+      "year": "2026 赛季",
+      "releaseNote": "2025.12.15 首发 · 2026 赛季在售",
+      "releaseSource": "https://news.adidas.com/sportsbrandcombinedcategory/adidas-basketball-and-james-harden-unveil-the-harden-vol-10/s/3f65c496-fc2f-456b-8a22-d876e49b3414",
+      "colorway": "Core Black / Ray Blue / Silver Metallic",
+      "styleCode": "KI1610 · 成人原版",
+      "photos": [
+        "/shoes/adidas-harden10-01.webp",
+        "/shoes/adidas-harden10-02.webp",
+        "/shoes/adidas-harden10-03.webp",
+        "/shoes/adidas-harden10-04.webp"
+      ],
+      "scores": [
+        8,
+        9,
+        9,
+        7,
+        6
+      ],
+      "plays": [
+        "quick",
+        "all",
+        "power"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "LIGHTBOOST、模压鞋面和贴合鞋领偏向缓震、包覆与多向移动。建议节奏单打、后撤步、急停投射的持球后卫及侧翼优先试穿。",
+      "advice": "如果你更常用后撤步、节奏变化和急停投射，Harden Vol.10 的包覆与多向抓地配置值得先试。",
+      "caution": "该系列 2025 年 12 月首发，作为 2026 赛季款收录；模压鞋面与鞋领贴合、负重感应上脚判断。",
+      "weight": {
+        "grams": 434,
+        "label": "RunRepeat 实测 · 男 US 9 · 单鞋 · 测试样鞋",
+        "source": "https://runrepeat.com/adidas-harden-volume-10"
+      },
+      "imageSource": "https://www.adidas.com/us/harden-volume-10-shoes/KI1610.html",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "全掌 LIGHTBOOST",
+          "source": "https://news.adidas.com/sportsbrandcombinedcategory/adidas-basketball-and-james-harden-unveil-the-harden-vol-10/s/3f65c496-fc2f-456b-8a22-d876e49b3414"
+        },
+        {
+          "label": "鞋面",
+          "value": "模压鞋面 · 包覆与支撑设计",
+          "source": "https://news.adidas.com/sportsbrandcombinedcategory/adidas-basketball-and-james-harden-unveil-the-harden-vol-10/s/3f65c496-fc2f-456b-8a22-d876e49b3414"
+        },
+        {
+          "label": "鞋领",
+          "value": "Conforming Cuff 贴合鞋领",
+          "source": "https://news.adidas.com/sportsbrandcombinedcategory/adidas-basketball-and-james-harden-unveil-the-harden-vol-10/s/3f65c496-fc2f-456b-8a22-d876e49b3414"
+        },
+        {
+          "label": "外底",
+          "value": "放射状多向抓地纹路",
+          "source": "https://news.adidas.com/sportsbrandcombinedcategory/adidas-basketball-and-james-harden-unveil-the-harden-vol-10/s/3f65c496-fc2f-456b-8a22-d876e49b3414"
+        }
+      ],
+      "layers": [
+        {
+          "id": "lightboost",
+          "title": "全掌 LIGHTBOOST",
+          "type": "foam",
+          "zone": "full",
+          "location": "前掌至后跟中底",
+          "relationship": "adidas 发布资料明确全长 LIGHTBOOST 缓震",
+          "function": "能量回馈与承托",
+          "unknown": "厚度与密度区未公开；不据目录标签推断 LIGHTSTRIKE 的具体分布",
+          "source": "https://news.adidas.com/sportsbrandcombinedcategory/adidas-basketball-and-james-harden-unveil-the-harden-vol-10/s/3f65c496-fc2f-456b-8a22-d876e49b3414",
+          "description": "前掌至后跟中底 · 能量回馈与承托",
+          "level": 0.08,
+          "explodeRank": 1.65,
+          "color": "#9bb9e3",
+          "visualDepth": 0.25
+        },
+        {
+          "id": "upper",
+          "title": "模压鞋面与 Conforming Cuff",
+          "type": "upper",
+          "zone": "full",
+          "location": "鞋面与鞋领",
+          "relationship": "与中底配合包覆足部，属于鞋面而非独立脚底板",
+          "function": "稳定贴合",
+          "unknown": "官网没有在所查资料中明确独立碳板或气垫",
+          "source": "https://www.adidas.com/us/harden-volume-10-shoes/KI1610.html",
+          "description": "鞋面与鞋领 · 稳定贴合",
+          "level": 0.1,
+          "explodeRank": 0.5,
+          "color": "#82b2ef"
+        },
+        {
+          "id": "outsole",
+          "title": "放射状多向橡胶外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "接触地面层",
+          "relationship": "放射状抓地服务制动与后撤步",
+          "function": "多向制动抓地",
+          "unknown": "模型沟槽仅用于分层辨识；真实底纹见官方照片",
+          "source": "https://www.adidas.com/us/harden-volume-10-shoes/KI1610.html",
+          "description": "接触地面层 · 多向制动抓地",
+          "level": -0.03,
+          "explodeRank": 0,
+          "color": "#dbe6f5"
+        }
+      ],
+      "structureSummary": "全掌 LIGHTBOOST 是已确认的缓震核心；模压鞋面与贴合鞋领提供包覆，没有补造未证实的气垫或碳板。",
+      "shape": {
+        "width": 1.15,
+        "heel": 1.06,
+        "waist": 1.07
+      },
+      "techImages": [],
+      "structureAccuracy": "部件分布依据官方文字与图片重建；展开间距、厚度及未公开边界为展示设定，非 1:1 尺寸模型。"
+    },
+    {
+      "id": "jordan-luka5",
+      "name": "Jordan Luka 5",
+      "short": "Luka 5",
+      "brand": "Jordan",
+      "series": "JORDAN / LUKA DONČIĆ",
+      "subtitle": "全掌 Strobel · IsoPlate 稳定",
+      "color": "#508bff",
+      "year": "2026.01",
+      "releaseNote": "2026.01.08 系列零售发布",
+      "releaseSource": "https://about.nike.com/en/newsroom/releases/jordan-brand-luka-5-official-images",
+      "colorway": "Laser Fuchsia / Black / Bleached Turquoise / Fiberglass",
+      "styleCode": "HV8082-600",
+      "photos": [
+        "/shoes/luka5-01.webp",
+        "/shoes/luka5-02.webp",
+        "/shoes/luka5-03.webp"
+      ],
+      "scores": [
+        9,
+        9,
+        9,
+        7,
+        7
+      ],
+      "plays": [
+        "quick",
+        "power",
+        "all"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "节奏突破、横向急停和后撤步比较多，Luka 5 值得放进试穿清单。全掌 Air Zoom Strobel 与 Cushlon 3.0 提供缓震，IsoPlate 和 ISOband 更偏向侧向稳定与锁定。",
+      "advice": "节奏突破、横向急停和后撤步比较多，Luka 5 值得放进试穿清单。全掌 Air Zoom Strobel 与 Cushlon 3.0 提供缓震，IsoPlate 和 ISOband 更偏向侧向稳定与锁定。",
+      "caution": "配置用于选鞋初筛，具体脚感、包覆与外底损耗还需结合脚型和试穿。",
+      "weight": null,
+      "imageSource": "https://www.nike.com/t/luka-5-basketball-shoes-W5IeTi5U/HV8082-600",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "全掌 Air Zoom Strobel + Cushlon 3.0",
+          "source": "https://www.nike.com/t/luka-5-basketball-shoes-W5IeTi5U/HV8082-600"
+        },
+        {
+          "label": "支撑",
+          "value": "IsoPlate 稳定结构 · 非已确认碳板",
+          "source": "https://www.nike.com/t/luka-5-basketball-shoes-W5IeTi5U/HV8082-600"
+        },
+        {
+          "label": "锁定",
+          "value": "ISOband 包覆系统",
+          "source": "https://www.nike.com/t/luka-5-basketball-shoes-W5IeTi5U/HV8082-600"
+        }
+      ],
+      "layers": [
+        {
+          "id": "strobel",
+          "title": "全掌 Air Zoom Strobel",
+          "type": "air",
+          "zone": "full",
+          "location": "从前掌延伸至后跟",
+          "relationship": "全掌气垫与 Cushlon 3.0 组合",
+          "function": "全掌响应缓震",
+          "unknown": "气囊的精确形状、厚度与压力未公开",
+          "source": "https://www.nike.com/t/luka-5-basketball-shoes-W5IeTi5U/HV8082-600",
+          "description": "从前掌延伸至后跟 · 全掌响应缓震",
+          "level": 0.27999999999999997,
+          "explodeRank": 2.8,
+          "color": "#61cce8"
+        },
+        {
+          "id": "cushlon",
+          "title": "全掌 Cushlon 3.0",
+          "type": "foam",
+          "zone": "full",
+          "location": "从前掌延伸至后跟",
+          "relationship": "泡棉与全掌 Strobel 协同缓震",
+          "function": "提供缓震与平顺过渡",
+          "unknown": "泡棉厚度、密度分区与精确轮廓未公开",
+          "source": "https://www.nike.com/t/luka-5-basketball-shoes-W5IeTi5U/HV8082-600",
+          "description": "从前掌延伸至后跟 · 提供缓震与平顺过渡",
+          "level": 0.13999999999999999,
+          "explodeRank": 1.4,
+          "color": "#a8c3df",
+          "visualDepth": 0.19
+        },
+        {
+          "id": "isoplate",
+          "title": "IsoPlate",
+          "type": "plate",
+          "zone": "unknown",
+          "location": "足底支撑区域 · 完整边界未公开",
+          "relationship": "官方称强韧、灵活的稳定结构，辅助侧向动作",
+          "function": "侧向稳定与变向控制",
+          "unknown": "未确认板的材料与精确形状，不将其当作碳板绘制",
+          "source": "https://www.nike.com/t/luka-5-basketball-shoes-W5IeTi5U/HV8082-600",
+          "description": "足底支撑区域 · 完整边界未公开 · 侧向稳定与变向控制",
+          "level": 0.09000000000000001,
+          "explodeRank": 0.9,
+          "color": "#a8c3df"
+        },
+        {
+          "id": "isoband",
+          "title": "ISOband",
+          "type": "frame",
+          "zone": "unknown",
+          "location": "鞋面包覆系统 · 分布边界未公开",
+          "relationship": "与 IsoPlate 共同提升足部锁定",
+          "function": "变向时的足部包覆",
+          "unknown": "带状结构的完整走向与材料未公开",
+          "source": "https://www.nike.com/t/luka-5-basketball-shoes-W5IeTi5U/HV8082-600",
+          "description": "鞋面包覆系统 · 分布边界未公开 · 变向时的足部包覆",
+          "level": 0.06,
+          "explodeRank": 0.6,
+          "color": "#a8c3df"
+        }
+      ],
+      "structureSummary": "全掌 Strobel · IsoPlate 稳定",
+      "shape": {
+        "width": 1,
+        "heel": 1,
+        "waist": 0.9
+      },
+      "techImages": [],
+      "structureAccuracy": "依据官方配置重建部件分布；轮廓、展开间距及厚度为展示设定，非 1:1 扫描或尺寸模型。"
+    },
+    {
+      "id": "nike-lebron23",
+      "name": "Nike LeBron 23",
+      "short": "LeBron 23",
+      "brand": "Nike",
+      "series": "NIKE / LEBRON JAMES",
+      "subtitle": "全掌 ZoomX · 碳板与 Crown 支撑",
+      "color": "#508bff",
+      "year": "2026 赛季",
+      "releaseNote": "2025.10.03 发布 · 2026 赛季在售",
+      "releaseSource": "https://about.nike.com/en/newsroom/releases/lebron-23-official-images",
+      "colorway": "Baltic Blue / Bluegrass / Bright Crimson / White",
+      "styleCode": "IM5125-401",
+      "photos": [
+        "/shoes/lebron23-01.webp",
+        "/shoes/lebron23-02.webp",
+        "/shoes/lebron23-03.webp"
+      ],
+      "scores": [
+        9,
+        8,
+        9,
+        7,
+        6
+      ],
+      "plays": [
+        "power",
+        "jump",
+        "all"
+      ],
+      "positions": [
+        "SF",
+        "PF",
+        "C"
+      ],
+      "roleReason": "对抗终结、抢板落地和转换推进较多，可以试试 LeBron 23。全掌 ZoomX 搭配中底下方碳板与 Crown 包覆，优先照顾缓震承载和侧向稳定；约 460 g 的重量也要一起考虑。",
+      "advice": "对抗终结、抢板落地和转换推进较多，可以试试 LeBron 23。全掌 ZoomX 搭配中底下方碳板与 Crown 包覆，优先照顾缓震承载和侧向稳定；约 460 g 的重量也要一起考虑。",
+      "caution": "配置用于选鞋初筛，具体脚感、包覆与外底损耗还需结合脚型和试穿。",
+      "weight": {
+        "grams": 460,
+        "label": "Nike 官方约值 · 男 US 9 · 单鞋",
+        "source": "https://www.nike.com/t/lebron-xxiii-shoe-bag-basketball-shoes-1EPyFJde/IM5125-401"
+      },
+      "imageSource": "https://www.nike.com/t/lebron-xxiii-shoe-bag-basketball-shoes-1EPyFJde/IM5125-401",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "全掌抽取式 ZoomX 泡棉",
+          "source": "https://www.nike.com/t/lebron-xxiii-shoe-bag-basketball-shoes-1EPyFJde/IM5125-401"
+        },
+        {
+          "label": "支撑",
+          "value": "中底下方碳纤维支撑板 + Crown 包覆",
+          "source": "https://www.nike.com/t/lebron-xxiii-shoe-bag-basketball-shoes-1EPyFJde/IM5125-401"
+        },
+        {
+          "label": "鞋面",
+          "value": "工程提花鞋面 + 内靴结构",
+          "source": "https://www.nike.com/t/lebron-xxiii-shoe-bag-basketball-shoes-1EPyFJde/IM5125-401"
+        },
+        {
+          "label": "落差",
+          "value": "官方约 7.5 mm",
+          "source": "https://www.nike.com/t/lebron-xxiii-shoe-bag-basketball-shoes-1EPyFJde/IM5125-401"
+        }
+      ],
+      "layers": [
+        {
+          "id": "zoomx",
+          "title": "全掌抽取式 ZoomX 中底",
+          "type": "carrier",
+          "zone": "full",
+          "location": "从前掌延伸至后跟",
+          "relationship": "抽取式 ZoomX 是主要缓震单元，碳纤维支撑板位于中底下方",
+          "function": "落地缓震与能量反馈",
+          "unknown": "泡棉厚度、密度分区与精确轮廓未公开",
+          "source": "https://about.nike.com/en/newsroom/releases/lebron-23-official-images",
+          "description": "从前掌延伸至后跟 · 落地缓震与能量反馈",
+          "level": 0.25,
+          "explodeRank": 2.5,
+          "color": "#a8c3df",
+          "rim": true,
+          "visualDepth": 0.21
+        },
+        {
+          "id": "carbon",
+          "title": "中底下方碳纤维支撑板",
+          "type": "carbon",
+          "zone": "arch",
+          "location": "中底下方的中足支撑区域",
+          "relationship": "官网明确在中底下方，与 Crown 支撑系统协同",
+          "function": "抗扭与中足稳定",
+          "unknown": "碳板完整边界、尺寸和铺层未公开",
+          "source": "https://about.nike.com/en/newsroom/releases/lebron-23-official-images",
+          "description": "中底下方的中足支撑区域 · 抗扭与中足稳定",
+          "level": 0.12,
+          "explodeRank": 1.2,
+          "color": "#485361"
+        },
+        {
+          "id": "crown",
+          "title": "Crown Containment System",
+          "type": "frame",
+          "zone": "unknown",
+          "location": "冠状包覆结构 · 完整空间边界未公开",
+          "relationship": "冠状结构辅助脚部锁定和稳定",
+          "function": "侧向包覆与足部稳定",
+          "unknown": "三维模型不补画未公开的边界",
+          "source": "https://about.nike.com/en/newsroom/releases/lebron-23-official-images",
+          "description": "冠状包覆结构 · 完整空间边界未公开 · 侧向包覆与足部稳定",
+          "level": 0.06,
+          "explodeRank": 0.6,
+          "color": "#a8c3df"
+        },
+        {
+          "id": "outsole",
+          "title": "多向抓地外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "接触地面的外底层",
+          "relationship": "位于缓震中底下方",
+          "function": "多向起停与转向抓地",
+          "unknown": "三维纹路仅示意层级，真实外底见产品实拍",
+          "source": "https://about.nike.com/en/newsroom/releases/lebron-23-official-images",
+          "description": "接触地面的外底层 · 多向起停与转向抓地",
+          "level": 0,
+          "explodeRank": 0,
+          "color": "#a8c3df"
+        }
+      ],
+      "structureSummary": "全掌 ZoomX · 碳板与 Crown 支撑",
+      "shape": {
+        "width": 1,
+        "heel": 1,
+        "waist": 0.9
+      },
+      "techImages": [],
+      "structureAccuracy": "依据官方配置重建部件分布；轮廓、展开间距及厚度为展示设定，非 1:1 扫描或尺寸模型。"
+    },
+    {
+      "id": "nike-freak8",
+      "name": "Nike Giannis Freak 8",
+      "short": "Giannis Freak 8",
+      "brand": "Nike",
+      "series": "NIKE / GIANNIS ANTETOKOUNMPO",
+      "subtitle": "全掌 ReactX · 冲筐与包覆",
+      "color": "#508bff",
+      "year": "2026.08",
+      "releaseNote": "2026.08.01 系列零售发布",
+      "releaseSource": "https://about.nike.com/en/newsroom/releases/giannis-antetokounmpo-nike-freak-8-official-images",
+      "colorway": "粉色官方首发展示",
+      "styleCode": "品牌发布款 · 货号尚未核实",
+      "photos": [
+        "/shoes/freak8-01.webp",
+        "/shoes/freak8-02.webp",
+        "/shoes/freak8-03.webp"
+      ],
+      "scores": [
+        8,
+        8,
+        8,
+        7,
+        7
+      ],
+      "plays": [
+        "power",
+        "all",
+        "quick"
+      ],
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "roleReason": "喜欢直线冲筐、持球对抗和转换进攻，可以关注 Freak 8。全掌 ReactX、泡棉侧墙和强化后跟是它的主要配置；官方未确认气垫或碳板，选鞋时别把这些当成已知卖点。",
+      "advice": "喜欢直线冲筐、持球对抗和转换进攻，可以关注 Freak 8。全掌 ReactX、泡棉侧墙和强化后跟是它的主要配置；官方未确认气垫或碳板，选鞋时别把这些当成已知卖点。",
+      "caution": "配置用于选鞋初筛，具体脚感、包覆与外底损耗还需结合脚型和试穿。",
+      "weight": null,
+      "imageSource": "https://about.nike.com/en/newsroom/releases/giannis-antetokounmpo-nike-freak-8-official-images",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "全掌 ReactX 泡棉",
+          "source": "https://about.nike.com/en/newsroom/releases/giannis-antetokounmpo-nike-freak-8-official-images"
+        },
+        {
+          "label": "包覆",
+          "value": "泡棉侧墙 + 强化后跟",
+          "source": "https://about.nike.com/en/newsroom/releases/giannis-antetokounmpo-nike-freak-8-official-images"
+        },
+        {
+          "label": "鞋面",
+          "value": "合成材料包覆鞋面",
+          "source": "https://about.nike.com/en/newsroom/releases/giannis-antetokounmpo-nike-freak-8-official-images"
+        }
+      ],
+      "layers": [
+        {
+          "id": "reactx",
+          "title": "全掌 ReactX 缓震泡棉",
+          "type": "foam",
+          "zone": "full",
+          "location": "从前掌延伸至后跟",
+          "relationship": "全掌 ReactX 提供主要缓震，泡棉侧墙辅助包覆",
+          "function": "提供缓震与平顺过渡",
+          "unknown": "泡棉厚度、密度分区与精确轮廓未公开",
+          "source": "https://about.nike.com/en/newsroom/releases/giannis-antetokounmpo-nike-freak-8-official-images",
+          "description": "从前掌延伸至后跟 · 提供缓震与平顺过渡",
+          "level": 0.17,
+          "explodeRank": 1.7,
+          "color": "#a8c3df",
+          "rim": true,
+          "visualDepth": 0.19
+        },
+        {
+          "id": "heel",
+          "title": "强化后跟包覆",
+          "type": "frame",
+          "zone": "heel",
+          "location": "后跟鞋面包覆区域",
+          "relationship": "羽翼纹理的后跟结构辅助稳定，非已确认碳板",
+          "function": "后跟锁定与稳定",
+          "unknown": "后跟组件的精确材料与尺寸未公开",
+          "source": "https://about.nike.com/en/newsroom/releases/giannis-antetokounmpo-nike-freak-8-official-images",
+          "description": "后跟鞋面包覆区域 · 后跟锁定与稳定",
+          "level": 0.06999999999999999,
+          "explodeRank": 0.7,
+          "color": "#a8c3df"
+        }
+      ],
+      "structureSummary": "全掌 ReactX · 冲筐与包覆",
+      "shape": {
+        "width": 1,
+        "heel": 1,
+        "waist": 0.9
+      },
+      "techImages": [],
+      "structureAccuracy": "依据官方配置重建部件分布；轮廓、展开间距及厚度为展示设定，非 1:1 扫描或尺寸模型。",
+      "mediaKind": "官方发布实拍"
+    },
+    {
+      "structureAccuracy": "依据官方配置重建部件分布；轮廓、展开间距及厚度为展示设定，非 1:1 扫描或尺寸模型。",
+      "techImages": [],
+      "shape": {
+        "width": 1,
+        "heel": 1,
+        "waist": 0.9
+      },
+      "id": "nike-gt-cut1",
+      "name": "Nike Air Zoom G.T. Cut 1",
+      "short": "G.T. Cut 1",
+      "brand": "Nike",
+      "series": "GREATER THAN / CUT",
+      "subtitle": "抽取式 React · 全掌 Air Zoom Strobel",
+      "color": "#ed6d98",
+      "year": "经典实战",
+      "releaseNote": "2021 初代 · 经典实战档案",
+      "releaseSource": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600",
+      "colorway": "Pinksicle / Hyper Pink / White",
+      "styleCode": "CZ0175-600 · 原版（非 EP）",
+      "photos": [
+        "/shoes/gtcut1-01.webp",
+        "/shoes/gtcut1-02.webp",
+        "/shoes/gtcut1-03.webp",
+        "/shoes/gtcut1-04.webp",
+        "/shoes/gtcut1-05.webp",
+        "/shoes/gtcut1-06.webp"
+      ],
+      "scores": [
+        8,
+        8,
+        8,
+        6,
+        6
+      ],
+      "plays": [
+        "quick",
+        "all"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "低重心与抽取式中底配置，供急停变向和连续移动需求初筛；位置不是适配限制。",
+      "advice": "急停变向较多，可以在室内试穿 G.T. Cut 1。React 抽取式中底搭配全掌 Air Zoom Strobel 与后跟 Zoom Air；外场反馈有取舍，不能仅靠橡胶外底判断水泥地适配。",
+      "caution": "经典款的版本、鞋况与配色需核对。本档案为 CZ0175-600 原版，不能套用 EP 或复刻鞋测试；购买旧鞋还需检查粘合与老化。",
+      "weight": null,
+      "imageSource": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "抽取式 React + 全掌 Air Zoom Strobel + 后跟 Zoom Air",
+          "source": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600"
+        },
+        {
+          "label": "支撑",
+          "value": "硬质后跟夹片 + 强化网布鞋面",
+          "source": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600"
+        },
+        {
+          "label": "外底",
+          "value": "多方向橡胶纹路；原版非 EP",
+          "source": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600"
+        }
+      ],
+      "layers": [
+        {
+          "id": "react",
+          "title": "抽取式 React 泡棉",
+          "type": "foam",
+          "zone": "full",
+          "location": "全长足底缓震层",
+          "relationship": "位于全掌 Air Zoom Strobel 上方",
+          "function": "贴近足底的缓震与回弹",
+          "unknown": "精确厚度与密度未公开",
+          "source": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600",
+          "description": "全长足底缓震层 · 贴近足底的缓震与回弹",
+          "level": 0.30000000000000004,
+          "explodeRank": 3,
+          "color": "#a7cced"
+        },
+        {
+          "id": "strobel",
+          "title": "全掌 Air Zoom Strobel",
+          "type": "air",
+          "zone": "full",
+          "location": "全掌足底区域",
+          "relationship": "位于 React 抽取式中底下方",
+          "function": "全掌气垫缓震",
+          "unknown": "压力、尺寸及边界未公开",
+          "source": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600",
+          "description": "全掌足底区域 · 全掌气垫缓震",
+          "level": 0.2,
+          "explodeRank": 2,
+          "color": "#67b8e9"
+        },
+        {
+          "id": "heel-zoom",
+          "title": "后跟 Zoom Air",
+          "type": "air",
+          "zone": "heel",
+          "location": "后跟区域",
+          "relationship": "与全掌 Air Zoom Strobel 配合",
+          "function": "后掌缓震",
+          "unknown": "精确嵌入层位与尺寸未公开",
+          "source": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600",
+          "description": "后跟区域 · 后掌缓震",
+          "level": 0.1,
+          "explodeRank": 1,
+          "color": "#85aeea"
+        },
+        {
+          "id": "heel-clip",
+          "title": "后跟夹片",
+          "type": "frame",
+          "zone": "heel",
+          "location": "后跟外侧区域",
+          "relationship": "与强化鞋面配合",
+          "function": "后跟稳定与包覆",
+          "unknown": "具体材质牌号未公开",
+          "source": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600",
+          "description": "后跟外侧区域 · 后跟稳定与包覆",
+          "level": 0.1,
+          "explodeRank": 1,
+          "color": "#7392b9"
+        },
+        {
+          "id": "rubber",
+          "title": "橡胶外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "鞋底接地层",
+          "relationship": "位于缓震系统下方",
+          "function": "多方向抓地",
+          "unknown": "不承诺所有外场或配色的抓地表现",
+          "source": "https://www.nike.com/t/gt-cut-basketball-shoes-kTDfNK/CZ0175-600",
+          "description": "鞋底接地层 · 多方向抓地",
+          "level": 0,
+          "explodeRank": 0,
+          "color": "#a7cced"
+        }
+      ],
+      "structureSummary": "React 抽取式中底位于全掌 Air Zoom Strobel 上方，后跟另有 Zoom Air；模型为配置示意，气垫边界与尺寸未公开。"
+    },
+    {
+      "structureAccuracy": "依据官方配置重建部件分布；轮廓、展开间距及厚度为展示设定，非 1:1 扫描或尺寸模型。",
+      "techImages": [],
+      "shape": {
+        "width": 1,
+        "heel": 1,
+        "waist": 0.9
+      },
+      "id": "puma-mb06",
+      "name": "PUMA MB.06",
+      "short": "MB.06",
+      "brand": "PUMA",
+      "series": "PUMA / LAMELO BALL",
+      "subtitle": "抽取式中底 · TPU 侧墙包覆",
+      "color": "#b297ea",
+      "year": "2026 新系列",
+      "releaseNote": "2026.09 系列发布 · 官方配置档案",
+      "releaseSource": "https://us.puma.com/us/en/pd/mb.06-shooting-star-basketball-shoes/313624",
+      "colorway": "Shooting Star · Dark Amethyst / Lavender Alert",
+      "styleCode": "313624-01",
+      "photos": [
+        "/shoes/mb06-official.webp"
+      ],
+      "photoLabel": "官方发布图",
+      "scores": [
+        8,
+        8,
+        8,
+        7,
+        6
+      ],
+      "plays": [
+        "all",
+        "quick"
+      ],
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "roleReason": "抽取式中底与 TPU 侧墙用于配置初筛；尚无本档案配色的统一性能实测，不保证特定脚型适配。",
+      "advice": "MB.06 可作为持球移动与攻防转换的试穿候选。官方确认抽取式中底、TPU 侧墙和耐磨橡胶；泡棉名称、重量和足宽表现尚未可靠核实，不从上一代套用 NITRO。",
+      "caution": "新款主要依据官方配置，长期实战与同尺码称重仍待补充。官方“常规宽度”不是楦宽测量；不要据此保证宽脚适配。",
+      "weight": {
+        "grams": 440,
+        "label": "PUMA 日本官方约值 · 27 cm · 单/双鞋口径未明确",
+        "source": "https://jp.puma.com/jp/ja/pd/%E3%83%A1%E3%83%B3%E3%82%BA-mb06-%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA/313624"
+      },
+      "imageSource": "https://prtimes.jp/main/html/rd/p/000000377.000010697.html",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "抽取式缓震中底 · 官方未明确泡棉名称",
+          "source": "https://us.puma.com/us/en/pd/mb.06-shooting-star-basketball-shoes/313624"
+        },
+        {
+          "label": "支撑",
+          "value": "TPU 侧墙包覆",
+          "source": "https://us.puma.com/us/en/pd/mb.06-shooting-star-basketball-shoes/313624"
+        },
+        {
+          "label": "外底",
+          "value": "高耐磨橡胶 + 多方向纹路（品牌描述）",
+          "source": "https://us.puma.com/us/en/pd/mb.06-shooting-star-basketball-shoes/313624"
+        }
+      ],
+      "layers": [
+        {
+          "id": "drop-in",
+          "title": "抽取式缓震中底",
+          "type": "foam",
+          "zone": "full",
+          "location": "足底抽取式中底区域",
+          "relationship": "与 TPU 侧墙包覆配合",
+          "function": "缓震与响应",
+          "unknown": "未确认泡棉商品名、密度与精确厚度",
+          "source": "https://us.puma.com/us/en/pd/mb.06-shooting-star-basketball-shoes/313624",
+          "description": "足底抽取式中底区域 · 缓震与响应",
+          "level": 0.2,
+          "explodeRank": 2,
+          "color": "#a7cced"
+        },
+        {
+          "id": "sidewall",
+          "title": "TPU 侧墙包覆",
+          "type": "frame",
+          "zone": "full",
+          "location": "中底侧墙区域",
+          "relationship": "包覆足部并与系带锁定配合",
+          "function": "侧向包覆与稳定",
+          "unknown": "精确侧墙边界未公开",
+          "source": "https://us.puma.com/us/en/pd/mb.06-shooting-star-basketball-shoes/313624",
+          "description": "中底侧墙区域 · 侧向包覆与稳定",
+          "level": 0.1,
+          "explodeRank": 1,
+          "color": "#9783bb"
+        },
+        {
+          "id": "rubber",
+          "title": "耐磨橡胶外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "鞋底接地层",
+          "relationship": "多方向外底纹路",
+          "function": "抓地；耐磨为官方材料描述",
+          "unknown": "未有本档案同配色的统一外场测试",
+          "source": "https://us.puma.com/us/en/pd/mb.06-shooting-star-basketball-shoes/313624",
+          "description": "鞋底接地层 · 抓地；耐磨为官方材料描述",
+          "level": 0,
+          "explodeRank": 0,
+          "color": "#a7cced"
+        }
+      ],
+      "structureSummary": "官方确认抽取式中底、TPU 侧墙与橡胶外底；未确认具体泡棉商品名、气垫或碳板，模型不补画未知部件。"
+    },
+    {
+      "structureAccuracy": "依据官方配置重建部件分布；轮廓、展开间距及厚度为展示设定，非 1:1 扫描或尺寸模型。",
+      "techImages": [],
+      "shape": {
+        "width": 1,
+        "heel": 1,
+        "waist": 0.9
+      },
+      "id": "adidas-ae2",
+      "name": "adidas Anthony Edwards 2",
+      "short": "Anthony Edwards 2",
+      "brand": "adidas",
+      "series": "ADIDAS / ANTHONY EDWARDS",
+      "subtitle": "LIGHTBOOST × Lightstrike · Propulsion Plate",
+      "color": "#8ac6b0",
+      "year": "2026 赛季",
+      "releaseNote": "2025 发布 · 2026 赛季在售",
+      "releaseSource": "https://grassroots.adidas.com/eurocamp/news/adidas-basketball-and-anthony-edwards-unveil-the-anthony-edwards-2",
+      "colorway": "Cloud White / Core Black / Dusky Ink",
+      "styleCode": "JQ9493",
+      "photos": [
+        "/shoes/ae2-01.webp",
+        "/shoes/ae2-02.webp",
+        "/shoes/ae2-03.webp"
+      ],
+      "scores": [
+        8,
+        7,
+        9,
+        7,
+        5
+      ],
+      "plays": [
+        "power",
+        "all"
+      ],
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "roleReason": "包覆与侧向稳定可供对抗移动需求参考，但偏重和外场抓地限制需要一起考虑。",
+      "advice": "AE 2 可以在室内比较包覆与侧向稳定。LIGHTBOOST、Lightstrike 和 Propulsion Plate 是官方配置；独立测试的 US 9 单鞋约 428 g，偏轻量需求不应只看配置名。",
+      "caution": "RunRepeat 测试样鞋约 428 g，抓地表现弱于前代；不优先用于粗糙外场。测试配色、尺码与个人脚感均有差异，不把实验室数值套用到所有配色。",
+      "weight": {
+        "grams": 428,
+        "label": "RunRepeat 实测 · 男 US 9 · 单鞋 · 测试样鞋",
+        "source": "https://runrepeat.com/adidas-anthony-edwards-2"
+      },
+      "imageSource": "https://www.adidas.com/bh/en/anthony-edwards-2-shoes/JQ9493.html",
+      "specs": [
+        {
+          "label": "缓震",
+          "value": "LIGHTBOOST + Lightstrike 中底",
+          "source": "https://grassroots.adidas.com/eurocamp/news/adidas-basketball-and-anthony-edwards-unveil-the-anthony-edwards-2"
+        },
+        {
+          "label": "支撑",
+          "value": "Propulsion Plate + Articulated Fangs 包覆",
+          "source": "https://grassroots.adidas.com/eurocamp/news/adidas-basketball-and-anthony-edwards-unveil-the-anthony-edwards-2"
+        },
+        {
+          "label": "外底",
+          "value": "橡胶外底",
+          "source": "https://www.adidas.com/bh/en/anthony-edwards-2-shoes/JQ9493.html"
+        }
+      ],
+      "layers": [
+        {
+          "id": "dual-foam",
+          "title": "LIGHTBOOST + Lightstrike",
+          "type": "foam",
+          "zone": "full",
+          "location": "全长中底缓震系统",
+          "relationship": "两种中底材料配合",
+          "function": "缓震与能量反馈",
+          "unknown": "材料边界与精确厚度不按尺寸重建",
+          "source": "https://grassroots.adidas.com/eurocamp/news/adidas-basketball-and-anthony-edwards-unveil-the-anthony-edwards-2",
+          "description": "全长中底缓震系统 · 缓震与能量反馈",
+          "level": 0.2,
+          "explodeRank": 2,
+          "color": "#a7cced"
+        },
+        {
+          "id": "propulsion",
+          "title": "Propulsion Plate",
+          "type": "plate",
+          "zone": "unknown",
+          "location": "官方公布的支撑板",
+          "relationship": "用于力传递与抗扭配合",
+          "function": "支撑与能量传递",
+          "unknown": "精确尺寸与材质未在官方页面明确，不称为碳板",
+          "source": "https://grassroots.adidas.com/eurocamp/news/adidas-basketball-and-anthony-edwards-unveil-the-anthony-edwards-2",
+          "description": "官方公布的支撑板 · 支撑与能量传递",
+          "level": 0.1,
+          "explodeRank": 1,
+          "color": "#45536b"
+        },
+        {
+          "id": "fangs",
+          "title": "Articulated Fangs",
+          "type": "frame",
+          "zone": "full",
+          "location": "鞋身侧向包覆区域",
+          "relationship": "与鞋面共同锁定足部",
+          "function": "侧向包覆",
+          "unknown": "精确覆盖边界未公开",
+          "source": "https://grassroots.adidas.com/eurocamp/news/adidas-basketball-and-anthony-edwards-unveil-the-anthony-edwards-2",
+          "description": "鞋身侧向包覆区域 · 侧向包覆",
+          "level": 0.1,
+          "explodeRank": 1,
+          "color": "#7ba9a0"
+        },
+        {
+          "id": "rubber",
+          "title": "橡胶外底",
+          "type": "outsole",
+          "zone": "full",
+          "location": "鞋底接地层",
+          "relationship": "位于中底下方",
+          "function": "抓地",
+          "unknown": "外底耐磨不等于外场抓地适配",
+          "source": "https://www.adidas.com/bh/en/anthony-edwards-2-shoes/JQ9493.html",
+          "description": "鞋底接地层 · 抓地",
+          "level": 0,
+          "explodeRank": 0,
+          "color": "#a7cced"
+        }
+      ],
+      "structureSummary": "LIGHTBOOST 与 Lightstrike 提供中底缓震，Propulsion Plate 与 Articulated Fangs 配合支撑；板件未知精确区域仅显示文字说明。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.sites-runtime/
+.env
+
+.wrangler/
+.vinext/
+.next/
+.env*
+next-env.d.ts
+*.tsbuildinfo
+
+# Credentials, local state and tooling output
+.DS_Store
+Thumbs.db
+*.log
+*.pem
+*.key
+*.p12
+.npm-cache/
+playwright-report/
+test-results/
